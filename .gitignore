@@ -1,0 +1,8 @@
+.venv/
+data/
+checkpoints/
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+wandb/
+.vscode/
