@@ -1,0 +1,6 @@
+,acc,acc,acc,macro_f1,macro_f1,macro_f1
+test,unseen_items,unseen_reviewers,unseen_reviews,unseen_items,unseen_reviewers,unseen_reviews
+model,,,,,,
+community,0.8098,0.8247,0.8176,0.7784,0.7969,0.7881
+text,0.8031,0.8202,0.8115,0.7691,0.7922,0.7803
+user,0.8077,0.8307,0.8127,0.774,0.8048,0.7824
