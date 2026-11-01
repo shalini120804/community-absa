@@ -1,0 +1,26 @@
+{
+  "mode": "community",
+  "seed": 2,
+  "enc": "distilroberta-base",
+  "epoch": 2,
+  "val": {
+    "acc": 0.8125562151466091,
+    "macro_f1": 0.7782580277097457,
+    "n": 11118
+  },
+  "test_unseen_reviews": {
+    "acc": 0.8126796133414613,
+    "macro_f1": 0.7824094453535225,
+    "n": 11483
+  },
+  "test_unseen_items": {
+    "acc": 0.8097911227154047,
+    "macro_f1": 0.7770852868979766,
+    "n": 7660
+  },
+  "test_unseen_reviewers": {
+    "acc": 0.8187265917602996,
+    "macro_f1": 0.7910134856697498,
+    "n": 1335
+  }
+}
